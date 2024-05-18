@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\LoginPageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8556E54A-CA3C-4B05-BA2D-2201BBAEC187}|LoginPage2.csproj|c:\\users\\asus\\desktop\\loginpageapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8556E54A-CA3C-4B05-BA2D-2201BBAEC187}|LoginPage2.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8556E54A-CA3C-4B05-BA2D-2201BBAEC187}|LoginPage2.csproj|c:\\users\\asus\\desktop\\loginpageapp\\entities\\flowerexpert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8556E54A-CA3C-4B05-BA2D-2201BBAEC187}|LoginPage2.csproj|solutionrelative:entities\\flowerexpert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginPageApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginPageApp\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:58:14.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlowerExpert.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LoginPageApp\\Entities\\FlowerExpert.cs",
+              "RelativeDocumentMoniker": "Entities\\FlowerExpert.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LoginPageApp\\Entities\\FlowerExpert.cs",
+              "RelativeToolTip": "Entities\\FlowerExpert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:56:20.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
